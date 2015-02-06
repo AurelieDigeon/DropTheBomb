@@ -5,7 +5,7 @@
 Création d'une application mobile fun et ludique en 48h lors des [Happy Hacking Days 2014](http://www.happyhackingdays.com/) à la Plaine Images de Tourcoing.
 "Drop The Bomb" est un jeu du chat et la souris version 2.0, un joueur peut créer ou rejoindre une partie existante, le but étant de ne pas garder la bombe sur soi et de la jeter à un autre utilisateur proche de soi. Ce jeu a été développé sur Xcode pour iOS 7, il utilise une base de données relationnelle par l'intermédiaire d'une connexion Client/Serveur et un système de géolocalisation.
 
-![Screenshot](screenshots/IMG_0581.png)
+![Screenshot](Screenshots/IMG_0581.PNG)
 ## Installation
 
 Nécessite `cocoapods` pour les frameworks externes.
